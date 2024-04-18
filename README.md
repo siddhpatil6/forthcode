@@ -58,7 +58,7 @@ Modules : AppModule , ForthCodeModule <br>
 <h4>The app uses the following API to retrieve the list of photos: </h4>
 
 
-API Base URL: https://jsonplaceholder.typicode.com/photos <br>
+API Base URL: https://jsonplaceholder.typicode.com <br>
 Endpoint: /photos <br>
 Method: GET <br>
 Response Format: JSON <br>
