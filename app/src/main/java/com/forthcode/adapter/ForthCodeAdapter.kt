@@ -15,11 +15,11 @@ import com.jakewharton.picasso.OkHttp3Downloader
 import com.squareup.picasso.Picasso
 
 
-class CustomAdapter(
+class ForthCodeAdapter(
     private val context: Context
-) : ListAdapter<ForthCodePhotosItem, CustomAdapter.CustomViewHolder>(DiffCallback) {
+) : ListAdapter<ForthCodePhotosItem, ForthCodeAdapter.ForthCodeViewHolder>(DiffCallback) {
 
-    inner class CustomViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
+    inner class ForthCodeViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         private val txtTitle: TextView = itemView.findViewById(R.id.txtTitle)
         private val coverImage: ImageView = itemView.findViewById(R.id.ivThumbNail)
 
@@ -35,13 +35,13 @@ class CustomAdapter(
         }
     }
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CustomViewHolder {
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ForthCodeViewHolder {
         val inflater = LayoutInflater.from(parent.context)
         val itemView = inflater.inflate(R.layout.forthcode_item, parent, false)
-        return CustomViewHolder(itemView)
+        return ForthCodeViewHolder(itemView)
     }
 
-    override fun onBindViewHolder(holder: CustomViewHolder, position: Int) {
+    override fun onBindViewHolder(holder: ForthCodeViewHolder, position: Int) {
         holder.bind(getItem(position))
     }
 
