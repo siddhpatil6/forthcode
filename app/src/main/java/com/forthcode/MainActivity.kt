@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
         getPhotosListAPI()
     }
 
-    fun getPhotosListAPI(){
+    private fun getPhotosListAPI(){
         forthCodeListViewModel.getListOfPhotos()
         forthCodeListViewModel.photosItem.observe(this, Observer { response ->
             generateDataList(response)
