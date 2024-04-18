@@ -8,8 +8,6 @@ API needs to call to fetch list of data consist of title and url
 <h2>Evidence : </h2> 
 [forthcode.webm](https://github.com/siddhpatil6/forthcode/assets/5618021/d0fb490e-9dac-4b50-96b0-49e95d48ba13)
 
-
-
 <h2>Installation </h2>
 Clone the repository: <br>
 git clone https://github.com/siddhpatil6/forthcode.git <br>
@@ -18,13 +16,6 @@ Build and run the project on an emulator or a physical device. <br>
 
 <h2>Usage </h2>
 Describe how to use the app, including any prerequisites or setup required. <br>
-
-<h2>Contributing </h2>
-Fork the repository. <br>
-Create a new branch (git checkout -b feature/feature-name). <br>
-Make your changes and commit them (git commit -am 'Add new feature'). <br>
-Push to the branch (git push origin feature/feature-name). <br>
-Create a new Pull Request. <br>
 
 <h2>Libraries Used </h2>
 
@@ -67,7 +58,7 @@ Modules : AppModule , ForthCodeModule <br>
 <h4>The app uses the following API to retrieve the list of photos: </h4>
 
 
-API Base URL: https://api.example.com <br>
+API Base URL: https://jsonplaceholder.typicode.com/photos <br>
 Endpoint: /photos <br>
 Method: GET <br>
 Response Format: JSON <br>
