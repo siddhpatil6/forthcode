@@ -1,0 +1,123 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AndroidLayouts\">\n    <shared>\n      <config />\n    </shared>\n    <layouts>\n      <layout url=\"file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml\">\n        <config>\n          <theme>@style/Theme.Forthcode</theme>\n        </config>\n      </layout>\n      <layout url=\"file://$PROJECT_DIR$/app/src/main/res/layout/forthcode_item.xml\">\n        <config>\n          <theme>@style/Theme.Forthcode</theme>\n        </config>\n      </layout>\n    </layouts>\n  </component>\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"NONE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"c80cb444-ce33-4d3d-9e33-8a1841af088d\" name=\"Changes\" comment=\"Notes:&#10;Code Changes for ForthCode\">\n      <change beforePath=\"$PROJECT_DIR$/app/src/main/java/com/forthcode/MainActivity.kt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/app/src/main/java/com/forthcode/MainActivity.kt\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/app/src/main/java/com/forthcode/adapter/ForthCodeAdapter.kt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/app/src/main/java/com/forthcode/adapter/ForthCodeAdapter.kt\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ClangdSettings\">\n    <option name=\"formatViaClangd\" value=\"false\" />\n  </component>\n  <component name=\"ExecutionTargetManager\" SELECTED_TARGET=\"device_and_snapshot_combo_box_target[/Users/siddhant.patil/.android/avd/Medium_Phone_API_33.avd]\" />\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"layoutResourceFile_vertical\" />\n        <option value=\"Kotlin Interface\" />\n        <option value=\"layoutResourceFile\" />\n        <option value=\"Kotlin Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2fGZ9AoU8T71H4Rw6bus0txg32m\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\n    \"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.cidr.known.project.marker\": \"true\",\n    \"ScreenRecorder.SavePath\": \"/Users/siddhant.patil\",\n    \"cf.first.check.clang-format\": \"false\",\n    \"cidr.known.project.marker\": \"true\",\n    \"dart.analysis.tool.window.visible\": \"false\",\n    \"git-widget-placeholder\": \"main\",\n    \"last_opened_file_path\": \"/Users/siddhant.patil/Documents/forthcode\",\n    \"settings.editor.selected.configurable\": \"project.propVCSSupport.DirectoryMappings\",\n    \"show.migrate.to.gradle.popup\": \"false\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/app/src/main/java/com/forthcode/networking\" />\n      <recent name=\"$PROJECT_DIR$/app/src/main/java/com/forthcode/interfaces\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"app\" type=\"AndroidRunConfigurationType\" factoryName=\"Android App\">\n      <module name=\"forthcode.app.main\" />\n      <option name=\"DEPLOY\" value=\"true\" />\n      <option name=\"DEPLOY_APK_FROM_BUNDLE\" value=\"false\" />\n      <option name=\"DEPLOY_AS_INSTANT\" value=\"false\" />\n      <option name=\"ARTIFACT_NAME\" value=\"\" />\n      <option name=\"PM_INSTALL_OPTIONS\" value=\"\" />\n      <option name=\"ALL_USERS\" value=\"false\" />\n      <option name=\"ALWAYS_INSTALL_WITH_PM\" value=\"false\" />\n      <option name=\"CLEAR_APP_STORAGE\" value=\"false\" />\n      <option name=\"DYNAMIC_FEATURES_DISABLED_LIST\" value=\"\" />\n      <option name=\"ACTIVITY_EXTRA_FLAGS\" value=\"\" />\n      <option name=\"MODE\" value=\"default_activity\" />\n      <option name=\"CLEAR_LOGCAT\" value=\"false\" />\n      <option name=\"SHOW_LOGCAT_AUTOMATICALLY\" value=\"false\" />\n      <option name=\"INSPECTION_WITHOUT_ACTIVITY_RESTART\" value=\"false\" />\n      <option name=\"TARGET_SELECTION_MODE\" value=\"DEVICE_AND_SNAPSHOT_COMBO_BOX\" />\n      <option name=\"SELECTED_CLOUD_MATRIX_CONFIGURATION_ID\" value=\"-1\" />\n      <option name=\"SELECTED_CLOUD_MATRIX_PROJECT_ID\" value=\"\" />\n      <option name=\"DEBUGGER_TYPE\" value=\"Auto\" />\n      <Auto>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Auto>\n      <Hybrid>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Hybrid>\n      <Java>\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Java>\n      <Native>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\n      </Native>\n      <Profilers>\n        <option name=\"ADVANCED_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_CPU_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_CPU_PROFILING_CONFIGURATION_NAME\" value=\"Java/Kotlin Method Sample (legacy)\" />\n        <option name=\"STARTUP_NATIVE_MEMORY_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"NATIVE_MEMORY_SAMPLE_RATE_BYTES\" value=\"2048\" />\n      </Profilers>\n      <option name=\"DEEP_LINK\" value=\"\" />\n      <option name=\"ACTIVITY_CLASS\" value=\"\" />\n      <option name=\"SEARCH_ACTIVITY_IN_GLOBAL_SCOPE\" value=\"false\" />\n      <option name=\"SKIP_ACTIVITY_VALIDATION\" value=\"false\" />\n      <method v=\"2\">\n        <option name=\"Android.Gradle.BeforeRunTask\" enabled=\"true\" />\n      </method>\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"c80cb444-ce33-4d3d-9e33-8a1841af088d\" name=\"Changes\" comment=\"\" />\n      <created>1713429221260</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1713429221260</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Notes:&#10;Code Changes for ForthCode\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1713446083781</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1713446083781</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Notes:&#10;Code Changes for ForthCode\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1713446097218</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1713446097218</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Notes:&#10;Code Changes for ForthCode\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1713446506902</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1713446506902</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n    <ignored-roots>\n      <path value=\"$PROJECT_DIR$/..\" />\n    </ignored-roots>\n    <MESSAGE value=\"Notes:&#10;Code Changes for ForthCode\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Notes:&#10;Code Changes for ForthCode\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 10e36650d8f3b70f07c8c64fe6c8669dd26bb78f)
++++ b/.idea/workspace.xml	(date 1713449898439)
+@@ -21,9 +21,8 @@
+     <option name="autoReloadType" value="NONE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c80cb444-ce33-4d3d-9e33-8a1841af088d" name="Changes" comment="Notes:&#10;Code Changes for ForthCode">
+-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/forthcode/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/forthcode/MainActivity.kt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/forthcode/adapter/ForthCodeAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/forthcode/adapter/ForthCodeAdapter.kt" afterDir="false" />
++    <list default="true" id="c80cb444-ce33-4d3d-9e33-8a1841af088d" name="Changes" comment="Notes:&#10;Code clean up changes">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -51,35 +50,37 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="ProblemsViewState">
+     <option name="selectedTabId" value="CurrentFile" />
+   </component>
+   <component name="ProjectId" id="2fGZ9AoU8T71H4Rw6bus0txg32m" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <OptionsSetting value="false" id="Update" />
+     <ConfirmationsSetting value="2" id="Add" />
+   </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ASKED_ADD_EXTERNAL_FILES": "true",
+-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.cidr.known.project.marker": "true",
+-    "ScreenRecorder.SavePath": "/Users/siddhant.patil",
+-    "cf.first.check.clang-format": "false",
+-    "cidr.known.project.marker": "true",
+-    "dart.analysis.tool.window.visible": "false",
+-    "git-widget-placeholder": "main",
+-    "last_opened_file_path": "/Users/siddhant.patil/Documents/forthcode",
+-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+-    "show.migrate.to.gradle.popup": "false"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
++    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
++    &quot;ScreenRecorder.SavePath&quot;: &quot;/Users/siddhant.patil&quot;,
++    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
++    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
++    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/Users/siddhant.patil/Documents/forthcode&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
++    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$/app/src/main/java/com/forthcode/networking" />
+@@ -188,8 +189,35 @@
+       <option name="project" value="LOCAL" />
+       <updated>1713446506902</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Notes:&#10;Code Changes for ForthCode">
++      <option name="closed" value="true" />
++      <created>1713449458226</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1713449458227</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Notes:&#10;Code clean up changes">
++      <option name="closed" value="true" />
++      <created>1713449476511</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1713449476511</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+@@ -197,6 +225,7 @@
+       <path value="$PROJECT_DIR$/.." />
+     </ignored-roots>
+     <MESSAGE value="Notes:&#10;Code Changes for ForthCode" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Notes:&#10;Code Changes for ForthCode" />
++    <MESSAGE value="Notes:&#10;Code clean up changes" />
++    <option name="LAST_COMMIT_MESSAGE" value="Notes:&#10;Code clean up changes" />
+   </component>
+ </project>
+\ No newline at end of file
